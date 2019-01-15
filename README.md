@@ -1,1 +1,1 @@
-my updated 1547567844328file content
+my updated file content
